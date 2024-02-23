@@ -1,1 +1,2 @@
-# wonkaLoading
+# 영화 웡카보고 따라해보고 싶었던 인터렉션
+## html, css, js, 이미지로 구현
